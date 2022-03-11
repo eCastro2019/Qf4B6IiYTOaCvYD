@@ -1,0 +1,39 @@
+{
+    "nameMonthES": [
+		{ "mes": "Jan", "value": "Enero" },
+		{ "mes": "Feb", "value": "Febrero" },
+		{ "mes": "Mar", "value": "Marzo" },
+		{ "mes": "Apr", "value": "Abril" },
+		{ "mes": "May", "value": "Mayo" },
+		{ "mes": "Jun", "value": "Junio" },
+		{ "mes": "Jul", "value": "Julio" },
+		{ "mes": "Aug", "value": "Agosto" },
+		{ "mes": "Sep", "value": "Septiembre" },
+		{ "mes": "Oct", "value": "Obtubre" },
+		{ "mes": "Nov", "value": "Noviembre" },
+		{ "mes": "Dec", "value": "Diciembre" }
+	],
+	"diaMonth": [
+		{ "mes": "Jan", "value": "01" },
+		{ "mes": "Feb", "value": "02" },
+		{ "mes": "Mar", "value": "03" },
+		{ "mes": "Apr", "value": "04" },
+		{ "mes": "May", "value": "05" },
+		{ "mes": "Jun", "value": "06" },
+		{ "mes": "Jul", "value": "07" },
+		{ "mes": "Aug", "value": "08" },
+		{ "mes": "Sep", "value": "09" },
+		{ "mes": "Oct", "value": "10" },
+		{ "mes": "Nov", "value": "11" },
+		{ "mes": "Dec", "value": "12" }
+	],
+	"nameDiaES": [
+		{ "dia":"Sun", "value": "Domingo" },
+		{ "dia":"Mon", "value": "Lunes" },
+		{ "dia":"Tue", "value": "Martes" },
+		{ "dia":"Wed", "value": "Miercoles" },
+		{ "dia":"Thu", "value": "Jueves" },
+		{ "dia":"Fri", "value": "Viernes" },
+		{ "dia":"Sat", "value": "Sabado" }
+	]
+}
