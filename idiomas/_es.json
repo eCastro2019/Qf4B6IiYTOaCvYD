@@ -1,6 +1,5 @@
-{
-    "es":
-	{ "_esText1": "Guardar cambios" },
-	{ "_esText2": "MI CONSULTORIO DIGITAL" },
-	{ "_esText3": "CONFIGURACIÓN DEL IDIOMA" }
+{    
+	"_esText1": "Guardar cambios",
+	"_esText2": "MI CONSULTORIO DIGITAL",
+	"_esText3": "CONFIGURACIÓN DEL IDIOMA"
 }
