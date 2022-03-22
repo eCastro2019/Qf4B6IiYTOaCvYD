@@ -11,5 +11,6 @@
 	"text10": "Login",
 	"text11": "Main Menu",
 	"text12": "Logout",
-	"text13": "/welcome"
+	"text13": "/welcome",
+	"text14": "/welcome/login"
 }
